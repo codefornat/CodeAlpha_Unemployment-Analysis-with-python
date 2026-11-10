@@ -57,6 +57,6 @@ Ensure that `archive.zip` is in the project directory.
 - Unemployment began declining after the initial lockdown period.
 
 ## Author
-Your Name
+Natalie Nyamupfukudza
 
 Computer Science Student | Python | Data Analysis
